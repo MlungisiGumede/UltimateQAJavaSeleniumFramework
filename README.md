@@ -33,5 +33,5 @@ A modular Selenium automation framework using Java, Maven, and 3-tier architectu
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/selenium-3tier-framework.git
+   git clone https://github.com/MlungisiGumede/UltimateQAJavaSeleniumFramework.git
 
